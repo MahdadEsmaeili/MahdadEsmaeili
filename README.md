@@ -2,11 +2,11 @@
 
 I'm Mahdad, a computer engineering student at [PoliTO](https://it.wikipedia.org/wiki/Politecnico_di_Torino)
 
-I build projects that I find interesting and fun.
+I build projects that I find interesting and fun. I also try to learn more every day and add my learning path here.
 
-My main tech stack is Kotlin, C, Python, and Dart. My favorite tools are Android studio, Obsidian, and Ubuntu btw (I know it's not arch).
+My main tech stack is Kotlin, Java, C, Python, and Dart. My favorite tools are Android Studio, Obsidian, Notion, and Arch btw.
 
-I'm currently Learning about different Algorithms.
+I'm currently learning about different Algorithms and learning to work with Kotlin Multiplatform and Flutter to create cross-platform applications.
 
 
 
